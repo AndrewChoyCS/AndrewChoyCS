@@ -2,7 +2,7 @@
 
 I'm Andrew Choy, currently delving into the world of Computer Science and Data Science at UC Berkeley. Passionate about leveraging technology to solve real-world problems, I'm constantly tinkering and exploring new ideas. Dive into my collection of super duper dope projects below! 🚀✨
 
-📫 How to reach me: andrewchoy@berkeley.edu \n
+📫 How to reach me: andrewchoy@berkeley.edu <br>
 ⚡ Fun fact: I use to be a competitive Valorant Esport player 
 
 <!--
